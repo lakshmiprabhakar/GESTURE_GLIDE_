@@ -1,6 +1,6 @@
-# Virual-Mouse
+# Gesture Glide
 
-A virtual mouse is software that allows users to give mouse inputs to a
+Gesture Glide is a software that allows users to give mouse inputs to a
 system without using an actual mouse. To the extreme it can also be called
 as hardware because it uses an ordinary web camera. A virtual mouse can
 usually be operated with multiple input devices, which may include an
@@ -8,8 +8,6 @@ actual mouse or a computer keyboard. Virtual mouse which uses web
 camera works with the help of different image processing techniques.
 
 
- _Youtube Channel Link: [link](https://www.youtube.com/channel/UCC2aiBrcvFHpb4Rve-eQFBg)_<br>
- _Video Link: [link](https://www.youtube.com/watch?v=ufm6tfgo-OA&ab_channel=Proton)_
 
 
 # How to setup and run
